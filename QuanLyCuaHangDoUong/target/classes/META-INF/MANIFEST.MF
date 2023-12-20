@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 19
+Class-Path: libs/mssql-jdbc-8.2.2.jre8.jar libs/jcalendar-1.4.jar libs/A
+ bsoluteLayout-RELEASE126.jar libs/KControls-2.0-SNAPSHOT.jar libs/Anima
+ tonClass-SNAPSHOT.jar libs/miglayout-4.0-SNAPSHOT.jar libs/TimingFramew
+ ork-0.55-SNAPSHOT.jar libs/jcommon-1.0.23.jar libs/jfreechart-1.0.19.ja
+ r libs/flatlaf-2.6-SNAPSHOT.jar
+Main-Class: QLCH.UI.HomeJFrame
+Created-By: Maven Integration for Eclipse
+
